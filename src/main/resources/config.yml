@@ -1,0 +1,4 @@
+# 每 30 秒更新一次 Mod 缓存
+updateTime: 30
+# 获取 Mod 缓存的目标服务器
+serverName: lobby

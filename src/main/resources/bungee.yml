@@ -1,0 +1,3 @@
+name: BungeeModList
+version: '${version}'
+main: online.yudream.bungeemodlist.BungeeModList
